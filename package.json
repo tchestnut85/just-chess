@@ -1,0 +1,24 @@
+{
+  "name": "just-chess",
+  "version": "1.0.0",
+  "description": "just a chess game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tchestnut85/just-chess.git"
+  },
+  "keywords": [
+    "chess",
+    "javascript",
+    "react"
+  ],
+  "author": "Tom Chestnut, Peyton Schlafley",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tchestnut85/just-chess/issues"
+  },
+  "homepage": "https://github.com/tchestnut85/just-chess#readme"
+}
